@@ -1,0 +1,12 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Mob Coins",
+	"namespace": "csmst",
+	"author": "ChauhanSai",
+	"targetVersion": "1.17.20",
+	"description": "Enjoy Numismatics in the World of Minecraft!",
+	"capabilities": [],
+	"packs": {
+		"resourcePack": "./RP"
+	}
+}

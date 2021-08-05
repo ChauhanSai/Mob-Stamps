@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "39c38ed6-5f03-4bcb-9300-a0b6ac908dbb",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "Enjoy Numismatics in the World of Minecraft!",
+			"type": "resources",
+			"uuid": "3e06eec5-eca1-479c-b10f-77befd8e3fb0",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "7c4d3b5c-a7cd-4458-a904-f9a33c7a3c4c"
+		}
+	]
+}

@@ -9,7 +9,8 @@
 	},
 	"capabilities": [],
 	"namespace": "csmst",
-	"targetVersion": "1.16.100",
-	"name": "Mob Stamps ",
-	"description": "Placeholder"
+	"targetVersion": "1.17.20",
+	"name": "Mob Stamps",
+	"description": "Enjoy Philately in the World of Minecraft!",
+	"author": "ChauhanSai"
 }
