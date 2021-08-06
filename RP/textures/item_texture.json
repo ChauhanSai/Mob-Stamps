@@ -1,5 +1,11 @@
 {
-  "resource_pack_name": "bridgeRP",
-  "texture_name": "atlas.items",
-  "texture_data": {}
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"stamp_empty": {
+			"textures": [
+				"textures/items/stamp_empty"
+			]
+		}
+	}
 }

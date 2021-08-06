@@ -1,3 +1,11 @@
 {
-  "format_version": [1, 1, 0]
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"csmst:collectors_table": {
+		"textures": "collectors_table",
+		"sound": "stone"
+	}
 }

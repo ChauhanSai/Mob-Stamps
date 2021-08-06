@@ -1,0 +1,17 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "csmst:stamp_empty",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "stamp_empty"
+			},
+			"minecraft:creative_category": {
+				"category": "nature"
+			}
+		}
+	}
+}

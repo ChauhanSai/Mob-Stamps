@@ -1,7 +1,4 @@
 pack.name=Mob Stamps Resources
 pack.description=Enjoy Philately in the World of Minecraft!
-
 tile.csmst:collectors_table.name=Collectors Table
 crafting.collectors_table.name=Philately
-
-item.csmst:stamp_empty=Stamp
