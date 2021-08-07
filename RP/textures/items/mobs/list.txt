@@ -1,0 +1,66 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F69E-8163
+
+ Directory of C:\Users\chauh\Desktop\Games\Minecraft\My Addons\projects\Mob Stamps\RP\textures\items\mobs\entity
+
+08/06/2021  01:07 PM    <DIR>          .
+08/06/2021  01:07 PM    <DIR>          ..
+05/25/2021  02:30 PM               607 axolotl.png
+05/25/2021  02:30 PM               797 bat.png
+05/25/2021  02:30 PM               970 bee.png
+08/06/2021  12:55 PM             1,258 blaze.png
+05/25/2021  02:30 PM               700 brown.png
+05/25/2021  02:30 PM             1,120 cat.png
+08/06/2021  12:55 PM             2,242 cave_spider.png
+05/25/2021  02:30 PM               501 chicken.png
+05/25/2021  02:30 PM               303 clownfish.png
+05/25/2021  02:30 PM               454 cod.png
+05/25/2021  02:30 PM             1,151 cow.png
+05/25/2021  02:30 PM             2,882 creeper.png
+05/25/2021  02:30 PM             1,641 dolphin.png
+05/25/2021  02:30 PM             1,940 donkey.png
+08/06/2021  12:55 PM             3,838 drowned.png
+08/06/2021  12:55 PM             1,076 enderman.png
+05/25/2021  02:30 PM             1,239 evoker.png
+05/25/2021  02:30 PM               731 fox.png
+05/25/2021  02:30 PM               715 ghast.png
+08/06/2021  12:55 PM             1,106 glow_squid.png
+05/25/2021  02:30 PM             2,317 goat.png
+05/25/2021  02:30 PM             2,797 hoglin.png
+05/25/2021  02:30 PM             1,810 horse_brown.png
+05/25/2021  02:30 PM             1,101 husk.png
+05/25/2021  02:30 PM             2,871 iron_golem.png
+08/06/2021  01:07 PM                 0 list.txt
+05/25/2021  02:30 PM             1,553 llama.png
+08/06/2021  12:56 PM             1,942 magmacube.png
+05/25/2021  02:30 PM             1,132 mooshroom.png
+05/25/2021  02:30 PM             1,926 mule.png
+05/25/2021  02:30 PM               832 ocelot.png
+05/25/2021  02:30 PM             1,768 panda.png
+05/25/2021  02:30 PM               600 parrot_green.png
+08/06/2021  12:56 PM             2,320 phantom.png
+05/25/2021  02:30 PM               820 pig.png
+05/25/2021  02:30 PM             2,066 piglin.png
+05/25/2021  02:30 PM             1,823 pillager.png
+05/25/2021  02:30 PM             1,041 polarbear.png
+05/25/2021  02:30 PM             1,365 pufferfish.png
+05/25/2021  02:30 PM             5,774 ravager.png
+05/25/2021  02:30 PM             1,074 salmon.png
+05/25/2021  02:30 PM             2,960 sea_turtle.png
+08/06/2021  12:56 PM             4,320 sheep.png
+05/25/2021  02:30 PM             1,923 shulker_undyed.png
+05/25/2021  02:30 PM               680 skeleton.png
+05/25/2021  02:30 PM               426 slime.png
+05/25/2021  02:30 PM               703 snow_golem.png
+08/06/2021  12:56 PM             2,347 spider.png
+05/25/2021  02:30 PM               543 squid.png
+05/25/2021  02:30 PM               616 stray.png
+05/25/2021  02:30 PM             2,618 strider.png
+05/25/2021  02:30 PM               939 vex.png
+05/25/2021  02:30 PM             1,547 vindicator.png
+05/25/2021  02:30 PM             1,545 witch.png
+05/25/2021  02:30 PM               728 wither_skeleton.png
+05/25/2021  02:30 PM             1,422 wolf.png
+05/25/2021  02:30 PM               994 zombie.png
+              57 File(s)         86,514 bytes
+               2 Dir(s)  729,440,890,880 bytes free

@@ -6,6 +6,31 @@
 			"textures": [
 				"textures/items/stamp_empty"
 			]
+		},
+		"ink_bottle_empty": {
+			"textures": [
+				"textures/items/ink_bottle_empty"
+			]
+		},
+		"ink_bottle_axolotl": {
+			"textures": [
+				"textures/items/ink_bottle_axolotl"
+			]
+		},
+		"stamp_axolotl": {
+			"textures": [
+				"textures/items/stamp_axolotl"
+			]
+		},
+		"ink_bottle_bat": {
+			"textures": [
+				"textures/items/ink_bottle_bat"
+			]
+		},
+		"stamp_bat": {
+			"textures": [
+				"textures/items/stamp_bat"
+			]
 		}
 	}
 }

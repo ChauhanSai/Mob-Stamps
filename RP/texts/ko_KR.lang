@@ -1,4 +1,13 @@
 pack.name=Mob Stamps Resources
 pack.description=Enjoy Philately in the World of Minecraft!
+
 tile.csmst:collectors_table.name=Collectors Table
 crafting.collectors_table.name=Philately
+
+item.csmst:stamp_empty=Stamp
+item.csmst:ink_bottle_empty=Ink Bottle
+
+item.csmst:stamp_axolotl=Axolotl Stamp
+item.csmst:ink_bottle_axolotl=Axolotl Ink
+item.csmst:stamp_bat=Bat Stamp
+item.csmst:ink_bottle_bat=Bat Ink

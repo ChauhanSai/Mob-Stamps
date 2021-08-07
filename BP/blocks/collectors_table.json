@@ -109,9 +109,6 @@
 			},
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
-			},
-			"minecraft:creative_category": {
-				"category": "items"
 			}
 		},
 		"events": {

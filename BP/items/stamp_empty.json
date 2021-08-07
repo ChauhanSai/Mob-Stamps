@@ -8,9 +8,6 @@
 		"components": {
 			"minecraft:icon": {
 				"texture": "stamp_empty"
-			},
-			"minecraft:creative_category": {
-				"category": "nature"
 			}
 		}
 	}
