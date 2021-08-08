@@ -12,16 +12,6 @@
 				"textures/items/ink_bottle_empty"
 			]
 		},
-		"ink_bottle_axolotl": {
-			"textures": [
-				"textures/items/ink_bottle_axolotl"
-			]
-		},
-		"stamp_axolotl": {
-			"textures": [
-				"textures/items/stamp_axolotl"
-			]
-		},
 		"ink_bottle_bat": {
 			"textures": [
 				"textures/items/ink_bottle_bat"
@@ -30,6 +20,26 @@
 		"stamp_bat": {
 			"textures": [
 				"textures/items/stamp_bat"
+			]
+		},
+		"ink_bottle_blaze": {
+			"textures": [
+				"textures/items/ink_bottle_blaze"
+			]
+		},
+		"stamp_blaze": {
+			"textures": [
+				"textures/items/stamp_blaze"
+			]
+		},
+		"ink_bottle_cat": {
+			"textures": [
+				"textures/items/ink_bottle_cat"
+			]
+		},
+		"stamp_cat": {
+			"textures": [
+				"textures/items/stamp_cat"
 			]
 		}
 	}

@@ -7,7 +7,9 @@ crafting.collectors_table.name=Philately
 item.csmst:stamp_empty=Stamp
 item.csmst:ink_bottle_empty=Ink Bottle
 
-item.csmst:stamp_axolotl=Axolotl Stamp
-item.csmst:ink_bottle_axolotl=Axolotl Ink
 item.csmst:stamp_bat=Bat Stamp
 item.csmst:ink_bottle_bat=Bat Ink
+item.csmst:stamp_blaze=Blaze Stamp
+item.csmst:ink_bottle_blaze=Blaze Ink
+item.csmst:stamp_cat=Cat Stamp
+item.csmst:ink_bottle_cat=Cat Ink

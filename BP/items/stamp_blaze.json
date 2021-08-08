@@ -1,0 +1,15 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "csmst:stamp_blaze",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "stamp_blaze"
+			},
+			"minecraft:max_stack_size": 8
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csmst:stamp_blaze"
+		},
+		"tags": [
+			"collectors_table"
+		],
+		"ingredients": [
+			{
+				"item": "csmst:stamp_empty"
+			},
+			{
+				"item": "csmst:ink_bottle_blaze"
+			}
+		],
+		"result": [
+			{
+				"item": "csmst:stamp_blaze",
+				"count": 1
+			}
+		]
+	}
+}
