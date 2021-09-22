@@ -1,8 +1,15 @@
-pack.name=Mob Stamps Resources
+pack.name=Mob Stamps RP
 pack.description=Enjoy Philately in the World of Minecraft!
 
 tile.csmst:collectors_table.name=Collectors Table
 crafting.collectors_table.name=Philately
+
+entity.printer.name=Trader - Printer
+entity.collector.name=Trader - Collector
+entity.csmst:printer.name=Printer
+entity.csmst:collector.name=Collector
+item.spawn_egg.entity.csmst:printer.name=Spawn Printer
+item.spawn_egg.entity.csmst:collector.name=Spawn Collector
 
 item.csmst:stamp_empty=Stamp
 item.csmst:ink_bottle_empty=Ink Bottle

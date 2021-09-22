@@ -7,10 +7,21 @@
 	"bridge": {
 		"v1CompatMode": true
 	},
-	"capabilities": [],
 	"namespace": "csmst",
 	"targetVersion": "1.17.30",
 	"name": "Mob Stamps",
 	"description": "Enjoy Philately in the World of Minecraft!",
-	"author": "ChauhanSai"
+	"experimentalGameplay": {
+		"enableGameTestFramework": false,
+		"additionalModdingCapabilities": false,
+		"cavesAndCliffs": true,
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"experimentalMolangFeatures": true,
+		"educationEdition": true
+	},
+	"authors": [
+		"ChauhanSai"
+	]
 }

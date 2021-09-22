@@ -1,0 +1,55 @@
+{
+	"tiers": [
+		{
+			"groups": [
+				{
+					"num_to_select": 3,
+					"trades": [
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_bat"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_blaze"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_cat"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
