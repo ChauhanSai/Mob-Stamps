@@ -3,15 +3,15 @@
 	"minecraft:spawn_rules": {
 		"description": {
 			"identifier": "csmst:printer",
-			"population_control": "villager"
+			"population_control": "animal"
 		},
 		"conditions": [
 			{
 				"minecraft:spawns_on_surface": {},
 				"minecraft:brightness_filter": {
-					"min": 7,
+					"min": 5,
 					"max": 15,
-					"adjust_for_weather": true
+					"adjust_for_weather": false
 				},
 				"minecraft:weight": {
 					"default": 20
