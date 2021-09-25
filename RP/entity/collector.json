@@ -1,4 +1,3 @@
-//bridge-file-version: #3
 {
 	"format_version": "1.8.0",
 	"minecraft:client_entity": {
@@ -33,8 +32,8 @@
 				"controller.render.wandering_trader"
 			],
 			"spawn_egg": {
-				"base_color": "#FFFFFF",
-				"overlay_color": "#FFFFFF"
+				"base_color": "#38264a",
+				"overlay_color": "#ad765e"
 			}
 		}
 	}
