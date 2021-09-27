@@ -46,6 +46,104 @@
 									"item": "csmst:stamp_cat"
 								}
 							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_cave_spider"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_chicken"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_clownfish"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_cod"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_cow"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_creeper"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:stamp_dolphin"
+								}
+							]
 						}
 					]
 				}

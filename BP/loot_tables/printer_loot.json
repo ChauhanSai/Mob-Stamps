@@ -8,7 +8,43 @@
 			"entries": [
 				{
 					"type": "item",
-					"name": "minecraft:dirt"
+					"name": "csmst:ink_bottle_bat"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_blaze"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_cat"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_cave_spider"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_chicken"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_clownfish"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_cod"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_cow"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_creeper"
+				},
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_dolphin"
 				}
 			]
 		}

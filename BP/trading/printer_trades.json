@@ -46,6 +46,104 @@
 									"item": "csmst:ink_bottle_cat"
 								}
 							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_cave_spider"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_chicken"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_clownfish"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_cod"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_cow"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_creeper"
+								}
+							]
+						},
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_dolphin"
+								}
+							]
 						}
 					]
 				}

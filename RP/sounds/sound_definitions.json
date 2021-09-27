@@ -1,1 +1,63 @@
-{}
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"mob.trader.hurt": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/mst_trader/hurt1",
+				"sounds/mob/mst_trader/hurt2",
+				"sounds/mob/mst_trader/hurt3",
+				"sounds/mob/mst_trader/hurt4"
+			]
+		},
+		"mob.trader.idle": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/mst_trader/idle1",
+				"sounds/mob/mst_trader/idle2",
+				"sounds/mob/mst_trader/idle3",
+				"sounds/mob/mst_trader/idle4",
+				"sounds/mob/mst_trader/idle5"
+			]
+		},
+		"mob.collector.death": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/collector/death1",
+				"sounds/mob/collector/death2"
+			]
+		},
+		"mob.collector.step": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/collector/step1",
+				"sounds/mob/collector/step2",
+				"sounds/mob/collector/step3",
+				"sounds/mob/collector/step4"
+			]
+		},
+		"mob.printer.death": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/printer/death1",
+				"sounds/mob/printer/death2",
+				"sounds/mob/printer/death3"
+			]
+		},
+		"mob.printer.step": {
+			"category": "neutral",
+			"max_distance": 12.0,
+			"sounds": [
+				"sounds/mob/printer/step1",
+				"sounds/mob/printer/step2",
+				"sounds/mob/printer/step3",
+				"sounds/mob/printer/step4"
+			]
+		}
+	}
+}

@@ -8,7 +8,43 @@
 			"entries": [
 				{
 					"type": "item",
-					"name": "minecraft:dirt"
+					"name": "csmst:stamp_bat"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_blaze"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_cat"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_cave_spider"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_chicken"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_clownfish"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_cod"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_cow"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_creeper"
+				},
+				{
+					"type": "item",
+					"name": "csmst:stamp_dolphin"
 				}
 			]
 		}

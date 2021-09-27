@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csmst:stamp_dolphin"
+		},
+		"tags": [
+			"collectors_table"
+		],
+		"ingredients": [
+			{
+				"item": "csmst:stamp_empty"
+			},
+			{
+				"item": "csmst:ink_bottle_dolphin"
+			}
+		],
+		"result": [
+			{
+				"item": "csmst:stamp_dolphin",
+				"count": 1
+			}
+		]
+	}
+}

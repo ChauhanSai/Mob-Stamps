@@ -41,6 +41,76 @@
 			"textures": [
 				"textures/items/stamp_cat"
 			]
+		},
+		"ink_bottle_cave_spider": {
+			"textures": [
+				"textures/items/ink_bottle_cave_spider"
+			]
+		},
+		"stamp_cave_spider": {
+			"textures": [
+				"textures/items/stamp_cave_spider"
+			]
+		},
+		"ink_bottle_chicken": {
+			"textures": [
+				"textures/items/ink_bottle_chicken"
+			]
+		},
+		"stamp_chicken": {
+			"textures": [
+				"textures/items/stamp_chicken"
+			]
+		},
+		"ink_bottle_clownfish": {
+			"textures": [
+				"textures/items/ink_bottle_clownfish"
+			]
+		},
+		"stamp_clownfish": {
+			"textures": [
+				"textures/items/stamp_clownfish"
+			]
+		},
+		"ink_bottle_cod": {
+			"textures": [
+				"textures/items/ink_bottle_cod"
+			]
+		},
+		"stamp_cod": {
+			"textures": [
+				"textures/items/stamp_cod"
+			]
+		},
+		"ink_bottle_cow": {
+			"textures": [
+				"textures/items/ink_bottle_cow"
+			]
+		},
+		"stamp_cow": {
+			"textures": [
+				"textures/items/stamp_cow"
+			]
+		},
+		"ink_bottle_creeper": {
+			"textures": [
+				"textures/items/ink_bottle_creeper"
+			]
+		},
+		"stamp_creeper": {
+			"textures": [
+				"textures/items/stamp_creeper"
+			]
+		},
+		"ink_bottle_dolphin": {
+			"textures": [
+				"textures/items/ink_bottle_dolphin"
+			]
+		},
+		"stamp_dolphin": {
+			"textures": [
+				"textures/items/stamp_dolphin"
+			]
 		}
 	}
 }

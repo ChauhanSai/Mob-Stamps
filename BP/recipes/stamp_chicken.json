@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csmst:stamp_chicken"
+		},
+		"tags": [
+			"collectors_table"
+		],
+		"ingredients": [
+			{
+				"item": "csmst:stamp_empty"
+			},
+			{
+				"item": "csmst:ink_bottle_chicken"
+			}
+		],
+		"result": [
+			{
+				"item": "csmst:stamp_chicken",
+				"count": 1
+			}
+		]
+	}
+}
