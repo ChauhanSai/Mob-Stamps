@@ -148,6 +148,28 @@
 					]
 				}
 			]
+		},
+		{
+			"groups": [
+				{
+					"trades": [
+						{
+							"max_uses": 1,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "csmst:ink_bottle_drowned"
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }

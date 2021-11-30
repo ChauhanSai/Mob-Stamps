@@ -111,6 +111,16 @@
 			"textures": [
 				"textures/items/stamp_dolphin"
 			]
+		},
+		"ink_bottle_drowned": {
+			"textures": [
+				"textures/items/ink_bottle_drowned"
+			]
+		},
+		"stamp_drowned": {
+			"textures": [
+				"textures/items/stamp_drowned"
+			]
 		}
 	}
 }

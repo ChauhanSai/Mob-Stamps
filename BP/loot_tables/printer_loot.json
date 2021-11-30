@@ -47,6 +47,14 @@
 					"name": "csmst:ink_bottle_dolphin"
 				}
 			]
+		},
+		{
+			"entries": [
+				{
+					"type": "item",
+					"name": "csmst:ink_bottle_drowned"
+				}
+			]
 		}
 	]
 }
